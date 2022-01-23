@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://javaps.site/posts/e3e08109.html</loc>
+    
+    <lastmod>2022-01-23</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://javaps.site/posts/4a17b156.html</loc>
     
     <lastmod>2022-01-23</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>http://javaps.site/posts/d74d8b76.html</loc>
-    
-    <lastmod>2022-01-22</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://javaps.site/posts/e3e08109.html</loc>
     
     <lastmod>2022-01-22</lastmod>
     
@@ -107,14 +107,14 @@
   </url>
   
   <url>
-    <loc>http://javaps.site/friends/index.html</loc>
+    <loc>http://javaps.site/contact/index.html</loc>
     
     <lastmod>2022-01-22</lastmod>
     
   </url>
   
   <url>
-    <loc>http://javaps.site/contact/index.html</loc>
+    <loc>http://javaps.site/friends/index.html</loc>
     
     <lastmod>2022-01-22</lastmod>
     
@@ -128,14 +128,14 @@
   </url>
   
   <url>
-    <loc>http://javaps.site/List/music/index.html</loc>
+    <loc>http://javaps.site/List/movies/index.html</loc>
     
     <lastmod>2022-01-22</lastmod>
     
   </url>
   
   <url>
-    <loc>http://javaps.site/List/movies/index.html</loc>
+    <loc>http://javaps.site/List/music/index.html</loc>
     
     <lastmod>2022-01-22</lastmod>
     
@@ -149,14 +149,14 @@
   </url>
   
   <url>
-    <loc>http://javaps.site/List/galleries/%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB/index.html</loc>
+    <loc>http://javaps.site/List/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
     
     <lastmod>2022-01-22</lastmod>
     
   </url>
   
   <url>
-    <loc>http://javaps.site/List/galleries/%E5%8A%A8%E6%BC%AB%E9%A3%8E%E6%99%AF/index.html</loc>
+    <loc>http://javaps.site/List/galleries/%E5%8A%A8%E6%BC%AB%E6%8F%92%E7%94%BB/index.html</loc>
     
     <lastmod>2022-01-22</lastmod>
     
